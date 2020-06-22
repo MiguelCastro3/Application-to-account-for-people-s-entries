@@ -1,4 +1,4 @@
-# Application to account for people's entries
+# Application to count for people's entries
 
 **PROJECT:** 
 

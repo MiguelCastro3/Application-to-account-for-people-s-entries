@@ -20,6 +20,7 @@ In this project, an application was developed that, using a camera, accounts for
 
 
 **RESULTS:** 
+The images on the left are the real-time images captured by the camera while the images on the right are snapshoots of when a face detection occurs.
 
 Last detection performed - green square:
 ![1](https://user-images.githubusercontent.com/66881028/85320486-0bea2600-b4bb-11ea-9574-d187ec2b1cd5.png)
